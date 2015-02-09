@@ -1,0 +1,548 @@
+/*Ini right4colFL*/
+
+.right4colFL{
+width:830px;
+float:right;
+}
+
+.right4colFL .path
+{
+width:100%;
+height:30px;
+float:right;
+text-align:left;
+}
+
+.right4colFL .path p
+{
+color:#4d4d4d;
+font-family: HelveticaNeue, Helvetica, sans-serif;
+font-size:12px;
+margin-top:5px;
+}
+
+.right4colFL .path p a
+{
+color:#000000;
+}
+
+.right4colFL .path p span
+{
+color:#000000;
+font-family:   Helvetica, arial, sans-serif;
+font-weight:bold;
+font-size:12px;
+}
+
+.categorias
+{
+float:left;
+width:830px;
+}
+
+.tituloCategorias
+{
+ 
+color:#F15A24;
+font-size:14px;
+text-align:left;
+margin-bottom:15px;
+}
+
+.categorias .boxCate
+{
+display: table-cell; 
+height:125px; 
+width:158px;
+float:left;
+border: solid 1px #f3f3f3;
+-moz-box-shadow: 0 2px 2px #D3D3D3;
+-webkit-box-shadow: 0 0 5px #D3D3D3;
+box-shadow: 0 2px 2px #D3D3D3;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-top-left-radius: 5px;
+margin-right:5px;
+margin-bottom:5px;
+text-transform:uppercase;
+overflow:hidden;
+}
+
+.categorias .boxCate a
+{
+font-family: DINPro-Regular, Helvetica, Arial, sans-serif;
+color:#4D4D4D;
+font-size:11px;
+text-decoration:none;
+}
+
+.categorias .boxCate a img
+{
+border:none;
+max-height: 85px;
+}
+
+.categorias .boxCate .imgProdFamil
+{
+    float: left;
+    height: 85px;
+    overflow: hidden;
+    padding: 5px;
+    vertical-align: middle;
+    width: 148px;
+}
+
+.categorias .boxCateVerTodos
+{
+display: table-cell;
+margin-top:40px;
+height:50px; 
+width:158px;
+float:left;
+border: solid 1px #f3f3f3;
+-moz-box-shadow: 0 2px 2px #D3D3D3;
+-webkit-box-shadow: 0 0 5px #D3D3D3;
+box-shadow: 0 2px 2px #D3D3D3;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-top-left-radius: 5px;
+margin-right:5px;
+margin-bottom:5px;
+text-transform:uppercase;
+background:url(http://aws.tradeinn.com/images/restyling/flechaVerTodosMarcas.png) right no-repeat;
+}
+
+.categorias .boxCateVerTodos p
+{
+margin-top:11px;
+text-align:left;
+padding-left:10px;
+}
+
+.categorias .boxCateVerTodos p a
+{
+color: #1e66d3;
+font-family: DINPro-Regular,Helvetica,Arial,sans-serif;
+text-align:left;
+font-size: 12px;
+text-decoration: none;
+}
+
+.marcas
+{
+float:left;
+width:830px;
+}
+
+.tituloMarcas
+{
+ 
+color:#F15A24;
+font-size:14px;
+text-align:left;
+margin-bottom:15px;
+margin-top:20px;
+}
+
+.marcas .boxBrand
+{
+float:left; 
+width:268px;
+height:50px;
+border: solid 1px #f3f3f3;
+-moz-box-shadow: 0 2px 2px #D3D3D3;
+-webkit-box-shadow: 0 0 5px #D3D3D3;
+box-shadow: 0 2px 2px #D3D3D3;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-top-left-radius: 5px;
+margin-right:5px;
+margin-bottom:5px;
+}
+
+.boxBrandVerTodas
+{
+float:left; 
+width:268px;
+height:50px;
+border: solid 1px #f3f3f3;
+-moz-box-shadow: 0 2px 2px #D3D3D3;
+-webkit-box-shadow: 0 0 5px #D3D3D3;
+box-shadow: 0 2px 2px #D3D3D3;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-top-left-radius: 5px;
+margin-right:5px;
+margin-bottom:5px;
+background:url(http://aws.tradeinn.com/images/restyling/flechaVerTodosMarcas.png) right no-repeat;
+}
+
+.boxBrandVerTodas p
+{
+text-align:left;
+margin-top:18px;
+padding-left:10px;
+}
+
+.boxBrandVerTodas p a
+{
+color: #1E66D3;
+font-family: DINPro-Regular,Helvetica,Arial,sans-serif;
+font-size: 12px;
+text-align: left;
+text-decoration: none;
+}
+
+
+.marcas .boxBrand  ul
+{
+width:270px; 
+float:left;
+}
+
+.marcas .boxBrand  ul li
+{
+float:left;
+}
+
+.marcas .boxBrand .imgBrandFam
+{
+    float: left;
+    height: 50px;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 120px;
+}
+
+.marcas .boxBrand .imgBrandFam a
+{
+padding: 5px; 
+height:50px;
+text-align:center;
+vertical-align: middle;
+}
+
+.marcas .boxBrand .imgBrandFam img
+{
+border:none;
+max-width: 110px;
+}
+
+.marcas .boxBrand .nombreBrand
+{
+text-align:left;
+color:#4D4D4D;
+width:140px;
+height:50px;
+font-family: DINPro-Regular, Helvetica, Arial, sans-serif;
+font-size:12px;
+text-transform:uppercase;
+display: table-cell; 
+margin: 0 auto;
+}
+
+.marcas .boxBrand ul li a
+{
+text-align:left;
+color:#4D4D4D;
+font-family: DINPro-Regular, Helvetica, Arial, sans-serif;
+font-size:12px;
+text-transform:uppercase;
+text-decoration:none;
+width:140px;
+height:50px;
+display: table-cell; 
+padding: 5px; 
+vertical-align: middle;
+}
+
+/**/
+.titleListProdFamil
+{
+height:28px;
+border:solid 1px #cadec1;
+border-top-right-radius: 5px;
+border-top-left-radius: 5px;
+width:821px;
+float:left;
+margin-top:25px;
+}
+
+.titleListProdFamil .TitleIzq
+{
+width:821px;
+float:left;
+height:28px;
+background-image: linear-gradient(bottom, rgb(243,243,243) 25%, rgb(255,255,255) 63%);
+background-image: -o-linear-gradient(bottom, rgb(243,243,243) 25%, rgb(255,255,255) 63%);
+background-image: -moz-linear-gradient(bottom, rgb(243,243,243) 25%, rgb(255,255,255) 63%);
+background-image: -webkit-linear-gradient(bottom, rgb(243,243,243) 25%, rgb(255,255,255) 63%);
+background-image: -ms-linear-gradient(bottom, rgb(243,243,243) 25%, rgb(255,255,255) 63%);
+background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0.25, rgb(243,243,243)),color-stop(0.63, rgb(255,255,255)));
+}
+
+.titleListProdFamil .TitleIzq p
+{
+ 
+color:#f15a24;
+font-size:14px;
+text-align:left;
+line-height:28px;
+padding-left:10px;
+}
+
+.titleListProdFamil .TitleDer
+{
+width:155px;
+float:left;
+height:28px;
+background:url(http://aws.tradeinn.com/images/restyling/backVerTodos.png) no-repeat;
+}
+
+.titleListProdFamil .TitleDer p
+{
+font-family: HelveticaNeue, Helvetica, sans-serif;
+font-size:12px;
+line-height:28px;
+}
+
+.titleListProdFamil .TitleDer p a
+{
+color:#4d4d4d;
+}
+
+.titleListProdFamil .TitleDer p span
+{
+color:#007ede;
+font-weight:bold;
+}
+
+.itemProdFam
+{
+height:175px;
+width:821px;
+float:left;
+border: solid 1px #CCC;
+border-top:none;
+}
+
+.itemProdFam a
+{
+text-decoration:none;
+}
+
+.itemProdFam .bloqueUno
+{
+width:200px;
+float:left;
+height:175px;
+display: table-cell; 
+margin: 0 auto;
+}
+
+.itemProdFam .bloqueUno p
+{
+display: table-cell; 
+padding: 5px; 
+vertical-align: middle;
+height:175px;
+width:200px;
+}
+
+
+.itemProdFam .bloqueDos
+{
+width:465px;
+float:left;
+height:150px;
+}
+
+.itemProdFam .bloqueDos .tituloProd
+{
+font-family: HelveticaNeue, Helvetica, sans-serif;
+font-size:14px;
+text-align:left;
+margin-top:20px;
+}
+
+.itemProdFam .bloqueDos .tituloProd a
+{
+color:#000;
+}
+
+.itemProdFam .bloqueDos .logoMarcaProd
+{
+line-height:25px;
+text-align:left;
+margin-top:5px;
+margin-bottom:5px;
+}
+
+.itemProdFam .bloqueDos .logoMarcaProd a img
+{
+vertical-align:middle;
+border:none;
+}
+
+.itemProdFam .bloqueDos .descProd
+{
+font-family: HelveticaNeue, Helvetica, sans-serif;
+font-size:12px;
+color:#4D4D4D;
+text-align:left;
+}
+
+.itemProdFam .bloqueDos .precioProd
+{
+font-family: Helvetica, arial, sans-serif;
+font-weight:bold;
+margin-top:10px;
+font-size:16px;
+color:#D20000;
+text-align:left;
+}
+
+.itemProdFam .bloqueTres
+{
+width:145px;
+float:left;
+height:100px;
+}
+
+.itemProdFam .bloqueTres .complete
+{
+float:left;
+margin-top:50px;
+padding-left:20px;
+}
+
+.itemProdFam .bloqueTres .complete .cesta
+{
+background:url(http://aws.tradeinn.com/images/restyling/btnCarrito.png) no-repeat;
+width:57px;
+height:35px;
+text-decoration:none;
+float:left;
+cursor:pointer;
+}
+
+.itemProdFam .bloqueTres .complete .verDetalle
+{
+background: #fcfcfc; /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZjZmNmYyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmM2YzZjMiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top,  #fcfcfc 0%, #f3f3f3 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fcfcfc), color-stop(100%,#f3f3f3)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #fcfcfc 0%,#f3f3f3 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #fcfcfc 0%,#f3f3f3 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #fcfcfc 0%,#f3f3f3 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #fcfcfc 0%,#f3f3f3 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#f3f3f3',GradientType=0 ); /* IE6-8 */
+line-height:33px;
+border:solid 1px #CCC;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+width:112px;
+height:35px;
+text-decoration:none;
+float:left;
+cursor:pointer;
+ 
+color:#4D4D4D;
+font-size:12px;
+}
+
+.titulo_seo
+{
+color: #F15A24;
+font-size: 14px;
+margin-bottom: 15px;
+text-align: left;
+}
+
+.parrafo_seo
+{
+color: #4D4D4D;
+font-size: 12px;
+margin-top: 5px;
+text-align:left;
+margin-bottom:15px;
+}
+
+.lowest
+{
+float:left;
+width:200px;
+padding-top:20px;
+background:#FFF;
+}
+
+.left1colFR .menuCateg ul .content_subcate{
+border-top:none;
+border-bottom:none;
+}
+
+.left1colFR .menuCateg ul .content_subcate ul li
+{
+font-weight:bold;
+font-size:12px;
+color: #000000;
+margin-left:10px;
+}
+
+.left1colFR .menuCateg ul .content_subcate ul li a
+{
+color: #000000;
+padding-left:10px;
+border-left: 1px solid #ccc;
+}
+
+.left1colFR .menuCateg ul .content_subcate ul .primero
+{
+font-weight:bold;
+font-size:12px;
+margin-left:10px;
+color: #000000;
+}
+
+.left1colFR .menuCateg ul .content_subcate ul .primerodos
+{
+margin-left:10px;
+}
+
+.left1colFR .menuCateg ul .content_subcate ul .ultimados
+{
+margin-left:10px;
+}
+
+.left1colFR .menuCateg ul .content_subcate ul .normaldos
+{
+margin-left:10px;
+}
+
+.left1colFR .menuCateg ul .seleccionada
+{
+border:none;
+}
+
+.left1colFR .menuCateg ul .content_subcate ul .ultima
+{
+margin-left:10px;
+}
+
+.left1colFR .menuCateg ul .seleccionada a
+{
+color: #000000;
+line-height: 20px;
+text-decoration: none;
+width: 175px;
+background:none;
+margin-left:0px;
+padding-left:10px;
+}
+/*Fin right4colFL*/

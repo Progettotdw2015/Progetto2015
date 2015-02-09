@@ -1,0 +1,202 @@
+/* Horizontal Carousel */
+#horizontal_carousel {
+  float: left;
+  width: 100%;
+  height: 240px;
+  position: relative;
+}
+
+#horizontal_carousel .container {
+  float: left;
+  width: 760px;
+  height: 240px;
+  position: relative;    
+  overflow: hidden;
+}
+
+#horizontal_carousel ul {
+  margin: 0;
+  padding:0;
+  width: 100000px;
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 240px;
+}                      
+
+#horizontal_carousel ul li {
+  width: 187px;
+  height: 240px;
+  text-align: center; 
+  list-style:none;   
+  float:left;
+    font-size:14px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+#horizontal_carousel .previous_button{float:left;width:34px;height:175px;background: url("http://aws.tradeinn.com/images/sprites.png") repeat scroll -355px -105px rgba(0, 0, 0, 0);;z-index:100;cursor:pointer}
+#horizontal_carousel .previous_button_over{background:url(http://aws.tradeinn.com/css/themes/carousel/prototype-ui/horizontal/left_over.png)}
+#horizontal_carousel .previous_button_disabled {background: url('http://aws.tradeinn.com/images/restyling/sprite_logos_widget.png') no-repeat top left;   background-position: 0px -198px; width: 39px; height: 175px;  }
+#horizontal_carousel .next_button{float:right;width:39px;height:175px;background: url("http://aws.tradeinn.com/images/sprites.png") repeat scroll -306px -105px rgba(0, 0, 0, 0);z-index:100;cursor:pointer}
+#horizontal_carousel .next_button_over{background: url("http://aws.tradeinn.com/images/sprites.png") repeat scroll -255px -105px rgba(0, 0, 0, 0);}
+#horizontal_carousel .next_button_disabled{background:url(http://aws.tradeinn.com/css/themes/carousel/prototype-ui/horizontal/right_disabled.png);cursor:default}
+
+/*#horizontal_carousel .previous_button {
+  float:left;  
+  width: 34px;
+  height: 175px;
+  background: url(prototype-ui/horizontal/left.png);
+  z-index: 100;
+  cursor: pointer;
+}
+
+#horizontal_carousel .previous_button_over {
+  background: url(prototype-ui/horizontal/left_over.png);
+}
+
+#horizontal_carousel .previous_button_disabled {
+  background: url(prototype-ui/horizontal/left_disabled.png);
+  cursor: default;
+}
+
+#horizontal_carousel .next_button {
+  float:right;  
+  width: 39px;
+  height: 175px;
+  background: url(prototype-ui/horizontal/right.png);
+  z-index: 100;
+  cursor: pointer;
+}
+
+#horizontal_carousel .next_button_over {
+  background: url(prototype-ui/horizontal/right_over.png);
+}
+
+#horizontal_carousel .next_button_disabled {
+  background: url(prototype-ui/horizontal/right_disabled.png);
+  cursor: default;
+}*/
+
+/*carusell 2 marca*/
+#horizontal_carousel_2 {
+  float: left;
+  width: 100%;
+  height: 240px;
+  position: relative;
+}
+
+#horizontal_carousel_2 .container {
+  float: left;
+  width: 760px;
+  height: 240px;
+  position: relative;    
+  overflow: hidden;
+}
+
+#horizontal_carousel_2 ul {
+  margin: 0;
+  padding:0;
+  width: 100000px;
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 240px;
+}                      
+
+#horizontal_carousel_2 ul li {
+  width: 187px;
+  height: 240px;
+  text-align: center; 
+  list-style:none;   
+  float:left;
+    font-size:14px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+#horizontal_carousel_2 .previous_button{float:left;width:34px;height:175px;background: url("http://aws.tradeinn.com/images/sprites.png") repeat scroll -355px -105px rgba(0, 0, 0, 0);;z-index:100;cursor:pointer}
+#horizontal_carousel_2 .previous_button_over{background:url(http://aws.tradeinn.com/css/themes/carousel/prototype-ui/horizontal/left_over.png)}
+#horizontal_carousel_2 .previous_button_disabled {background: url('http://aws.tradeinn.com/images/restyling/sprite_logos_widget.png') no-repeat top left;   background-position: 0px -198px; width: 39px; height: 175px;  }
+#horizontal_carousel_2 .next_button{float:right;width:39px;height:175px;background: url("http://aws.tradeinn.com/images/sprites.png") repeat scroll -306px -105px rgba(0, 0, 0, 0);z-index:100;cursor:pointer}
+#horizontal_carousel_2 .next_button_over{background: url("http://aws.tradeinn.com/images/sprites.png") repeat scroll -255px -105px rgba(0, 0, 0, 0);}
+#horizontal_carousel_2 .next_button_disabled{background:url(http://aws.tradeinn.com/css/themes/carousel/prototype-ui/horizontal/right_disabled.png);cursor:default}
+
+
+/** CARRUSEL 3 **/
+/* Horizontal Carousel */
+#horizontal_carousel_3 {
+  float: left;
+  width: 100%;
+  height: 240px;
+  position: relative;
+}
+
+#horizontal_carousel_3 .container {
+  float: left;
+  width: 760px;
+  height: 240px;
+  position: relative;    
+  overflow: hidden;
+}
+
+#horizontal_carousel_3 ul {
+  margin: 0;
+  padding:0;
+  width: 100000px;
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 240px;
+}                      
+
+#horizontal_carousel_3 ul li {
+  width: 187px;
+  height: 240px;
+  text-align: center; 
+  list-style:none;   
+  float:left;
+    font-size:14px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+#horizontal_carousel_3 .previous_button{float:left;width:34px;height:175px;background: url("http://aws.tradeinn.com/images/sprites.png") repeat scroll -355px -105px rgba(0, 0, 0, 0);;z-index:100;cursor:pointer}
+#horizontal_carousel_3 .previous_button_over{background:url(http://aws.tradeinn.com/css/themes/carousel/prototype-ui/horizontal/left_over.png)}
+#horizontal_carousel_3 .previous_button_disabled {background: url('http://aws.tradeinn.com/images/restyling/sprite_logos_widget.png') no-repeat top left;   background-position: 0px -198px; width: 39px; height: 175px;  }
+#horizontal_carousel_3 .next_button{float:right;width:39px;height:175px;background: url("http://aws.tradeinn.com/images/sprites.png") repeat scroll -306px -105px rgba(0, 0, 0, 0);z-index:100;cursor:pointer}
+#horizontal_carousel_3 .next_button_over{background: url("http://aws.tradeinn.com/images/sprites.png") repeat scroll -255px -105px rgba(0, 0, 0, 0);}
+#horizontal_carousel_3 .next_button_disabled{background:url(http://aws.tradeinn.com/css/themes/carousel/prototype-ui/horizontal/right_disabled.png);cursor:default}
+
+/*#horizontal_carousel_3 .previous_button {
+  float:left;  
+  width: 34px;
+  height: 175px;
+  background: url(prototype-ui/horizontal/left.png);
+  z-index: 100;
+  cursor: pointer;
+}
+
+#horizontal_carousel_3 .previous_button_over {
+  background: url(prototype-ui/horizontal/left_over.png);
+}
+
+#horizontal_carousel_3 .previous_button_disabled {
+  background: url(prototype-ui/horizontal/left_disabled.png);
+  cursor: default;
+}
+
+#horizontal_carousel_3 .next_button {
+  float:right;  
+  width: 39px;
+  height: 175px;
+  background: url(prototype-ui/horizontal/right.png);
+  z-index: 100;
+  cursor: pointer;
+}
+
+#horizontal_carousel_3 .next_button_over {
+  background: url(prototype-ui/horizontal/right_over.png);
+}
+
+#horizontal_carousel_3 .next_button_disabled {
+  background: url(prototype-ui/horizontal/right_disabled.png);
+  cursor: default;
+}*/

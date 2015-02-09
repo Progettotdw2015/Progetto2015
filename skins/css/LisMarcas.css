@@ -1,0 +1,466 @@
+/*Ini right4colFL*/
+
+.right4colFL{
+width:830px;
+float:right;
+}
+
+.right4colFL .path
+{
+width:100%;
+height:30px;
+float:right;
+text-align:left;
+}
+
+.right4colFL .path p
+{
+color:#4d4d4d;
+font-family: HelveticaNeue, Helvetica, sans-serif;
+font-size:12px;
+margin-top:5px;
+}
+
+.right4colFL .path p a
+{
+color:#000000;
+}
+
+.right4colFL .path p span
+{
+color:#000000;
+font-family:   Helvetica, arial, sans-serif;
+font-weight:bold;
+font-size:12px;
+}
+
+.right4colFL .detalleMarca
+{
+/*height:80px;*/
+width:800px;
+border:solid 1px #e6e6e6;
+float:left;
+padding:10px;
+}
+
+.right4colFL .detalleMarcaIzq
+{
+width:120px;
+float:left;
+height:90px;	
+}
+
+
+.right4colFL .detalleMarcaIzq p
+{
+display:table-cell;
+margin:0;
+padding:0;
+vertical-align:middle;
+width:120px;
+height:90px;
+overflow: hidden;	
+}
+
+.right4colFL .detalleMarcaIzq p img
+{
+margin-right:10px;
+max-width:120px;
+max-height:90px;
+}
+
+.right4colFL .detalleMarcaDer
+{
+width:650px;
+float:right;
+text-align:left;
+/*height:80px;	*/
+}
+
+.right4colFL .detalleMarcaDer .titulo
+{
+color:#4d4d4d;
+font-family:   Helvetica, arial, sans-serif;
+font-weight:bold;
+font-size:16px;	
+}
+
+.right4colFL .detalleMarcaDer .more
+{
+color:#4d4d4d;
+font-family: HelveticaNeue,Helvetica, arial, sans-serif;
+font-size:12px;	
+margin-top:5px;
+line-height:15px;
+text-align:justify;
+}
+
+.right4colFL .detalleMarcaDer .more a
+{
+text-decoration:underline !important;
+color:#3fa9f5;
+}
+
+.right4colFL .detalleMarcaDer .more a:visited
+{
+text-decoration:underline !important;
+color:#3fa9f5;
+}
+
+.right4colFL .detalleMarcaDer .more a.morelink
+{
+text-decoration:none;
+outline:none
+}
+
+.right4colFL .detalleMarcaDer .more .morecontent span
+{
+display:none
+}
+
+.right4colFL .detalleMarcaDer .linkMarca
+{
+text-align:left;
+margin-top:5px;
+}
+
+.right4colFL .detalleMarcaDer .linkMarca a
+{
+color:#3FA9F5;
+font-family: HelveticaNeue,Helvetica,sans-serif;
+font-size: 12px;	
+}
+
+.right4colFL .agrupa4fam
+{
+float:left;
+}
+.right4colFL .BoxLinks
+{
+width:190px;
+margin-right:16px; 
+float:left;
+}
+
+.right4colFL .BoxLinks ul
+{
+width:100%;
+float:left;
+margin-top:10px;
+}
+
+.right4colFL .BoxLinks li
+{
+font-family: HelveticaNeue, Helvetica, sans-serif;
+font-size:12px;
+color:#4d4d4d;
+text-align:left;
+width:183px;
+}
+
+.right4colFL .BoxLinks li a
+{
+text-decoration:none;
+color:#4d4d4d;
+}
+
+.right4colFL .BoxLinks .verTodo
+{
+margin-top:5px;
+}
+
+.right4colFL .BoxLinks .verTodo a
+{
+text-decoration:underline;
+color:#3fa9f5;
+}
+
+.right4colFL .BoxLinks .titulo
+{
+font-family:   Helvetica, arial, sans-serif;
+font-weight:bold;
+font-size:14px;
+line-height:16px;
+margin-top:10px;
+margin-bottom:10px;
+}
+
+.right4colFL .BoxLinks .titulo span
+{
+color:#999999;	
+}
+
+.right4colFL .BoxSaleMarcas
+{
+width:828px;
+float:left;
+height:260px;
+border:solid 1px #CCCCCC;
+margin-top:30px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-top-left-radius: 5px;
+}
+
+.right4colFL .BoxSaleMarcas .Title
+{
+height:28px;
+border-bottom:solid 1px #CCCCCC;
+width:828px;
+float:left;
+}
+
+.right4colFL .BoxSaleMarcas .TitleIzq
+{
+width:828px;
+float:left;
+height:28px;
+background-image: linear-gradient(bottom, rgb(243,243,243) 25%, rgb(255,255,255) 63%);
+background-image: -o-linear-gradient(bottom, rgb(243,243,243) 25%, rgb(255,255,255) 63%);
+background-image: -moz-linear-gradient(bottom, rgb(243,243,243) 25%, rgb(255,255,255) 63%);
+background-image: -webkit-linear-gradient(bottom, rgb(243,243,243) 25%, rgb(255,255,255) 63%);
+background-image: -ms-linear-gradient(bottom, rgb(243,243,243) 25%, rgb(255,255,255) 63%);
+background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0.25, rgb(243,243,243)),color-stop(0.63, rgb(255,255,255)));
+}
+
+.right4colFL .BoxSaleMarcas .TitleIzq p
+{
+font-family: DINPro-Bold, Helvetica, Arial, sans-serif;
+color:#f15a24;
+font-size:14px;
+text-align:left;
+line-height:28px;
+padding-left:10px;
+text-transform:uppercase;
+}
+
+.right4colFL .BoxSaleMarcas .TitleDer
+{
+width:158px;
+display:none;
+float:left;
+height:28px;
+/*background:url(http://images.tradeinn.com/images/restyling/backVerTodos.png) no-repeat;*/
+}
+
+.right4colFL .BoxSaleMarcas .TitleDer p
+{
+font-family: HelveticaNeue, Helvetica, sans-serif;
+font-size:12px;
+line-height:28px;
+}
+
+.right4colFL .BoxSaleMarcas .TitleDer p a
+{
+color:#4d4d4d;
+}
+
+.right4colFL .BoxSaleMarcas .TitleDer p span
+{
+color:#007ede;
+font-weight:bold;
+}
+
+.right4colFL .medioBoxMarcas{
+width:100%;
+float:left;
+border-bottom: solid 1px #e6e6e6;
+height:250px;
+}
+
+.right4colFL .singleBoxMarca
+{
+float:left;
+height:250px;
+width:206px;
+line-height: 250px; 
+border-right: solid 1px #e6e6e6;
+background-image: linear-gradient(bottom, rgb(245,245,245) 0%, rgb(255,255,255) 6%, rgb(255,255,255) 34%, rgb(255,255,255) 48%);
+background-image: -o-linear-gradient(bottom, rgb(245,245,245) 0%, rgb(255,255,255) 6%, rgb(255,255,255) 34%, rgb(255,255,255) 48%);
+background-image: -moz-linear-gradient(bottom, rgb(245,245,245) 0%, rgb(255,255,255) 6%, rgb(255,255,255) 34%, rgb(255,255,255) 48%);
+background-image: -webkit-linear-gradient(bottom, rgb(245,245,245) 0%, rgb(255,255,255) 6%, rgb(255,255,255) 34%, rgb(255,255,255) 48%);
+background-image: -ms-linear-gradient(bottom, rgb(245,245,245) 0%, rgb(255,255,255) 6%, rgb(255,255,255) 34%, rgb(255,255,255) 48%);
+background-image: -webkit-gradient(	linear,	left bottom,	left top,	color-stop(0, rgb(245,245,245)),	color-stop(0.06, rgb(255,255,255)),	color-stop(0.34, rgb(255,255,255)),	color-stop(0.48, rgb(255,255,255)));
+}
+
+
+.right4colFL .singleBoxMarca .BoxImage
+{
+width:100%;
+text-align:center;
+height:160px;
+vertical-align:middle;
+}
+
+.right4colFL .singleBoxMarca .BoxPrice
+{
+width:100%;
+text-align:center;
+height:85px;
+vertical-align:middle;	
+}
+
+.right4colFL .singleBoxMarca .BoxPrice p
+{
+font-family: HelveticaNeue, Helvetica, sans-serif;
+font-size:13px;
+text-align:center;
+line-height:20px;
+}
+
+.right4colFL .BoxPriceName
+{
+color:#000;
+}
+
+.right4colFL .BoxPriceBrand
+{
+color:#4d4d4d;
+}
+
+.right4colFL .BoxPriceValor
+{
+color:#c80000;
+}
+
+.right4colFL .downBoxMarcas
+{
+float:left;
+width:100%;
+height:58px;
+}
+
+.right4colFL .downBoxMarcas .left
+{
+ width:28px;
+ height:58px;
+ float:left;
+}
+
+.right4colFL .downBoxMarcas .centre
+{
+ width:770px;
+ height:58px;
+ float:left;
+}
+
+.right4colFL .downBoxMarcas .miniBox
+{
+width:40px;
+height:40px;
+border:solid 1px #e6e6e6;
+margin-right:5px;
+float:left;
+margin-top:8px;
+}
+.right4colFL .downBoxMarcas .miniBoxSel
+{
+border:solid 2px #3fa9f5;
+float:left;
+width:182px;
+height:42px;
+margin-right:5px;
+margin-top:7px;
+}
+
+.right4colFL .downBoxMarcas .miniBoxSel .miniBox
+{
+margin-top:0;
+}
+
+.right4colFL .downBoxMarcas .miniBoxSel .miniBoxLast
+{
+padding-right:0;
+}
+
+.right4colFL .downBoxMarcas .right
+ {
+	 width:28px;
+	 height:58px;
+	 float:left;
+}
+
+/*Fin right4colFL*/
+
+.right4colFL .singleBoxMarcaCarrusel
+{
+float:left;
+height:240px;
+width:185px;
+line-height: 240px; 
+}
+
+
+.right4colFL .singleBoxMarcaCarrusel .BoxImage
+{
+width:185px;
+text-align:center;
+height:160px;
+display: table-cell; 
+margin: 0 auto;
+}
+
+.right4colFL .singleBoxMarcaCarrusel .BoxImage a
+{
+line-height:25px;
+height:160px;
+width:185px;
+display: table-cell; 
+padding: 5px; 
+vertical-align: middle;
+}
+
+.right4colFL .singleBoxMarcaCarrusel .BoxImage a img
+{
+vertical-align:middle;
+border:none;
+}
+
+
+
+.right4colFL .singleBoxMarcaCarrusel .BoxPrice
+{
+width:100%;
+text-align:center;
+height:85px;
+vertical-align:middle;	
+}
+
+.right4colFL .singleBoxMarcaCarrusel .BoxPrice p
+{
+font-family: HelveticaNeue, Helvetica, sans-serif;
+font-size:13px;
+text-align:center;
+line-height:20px;
+}
+
+.right4colFL .singleBoxMarcaCarrusel .BoxPrice p a
+{
+text-decoration:none;
+}
+
+
+.right4colFL .BoxPriceName a
+{
+color:#000;
+}
+
+.right4colFL .BoxPriceBrand a
+{
+color:#4d4d4d;
+}
+
+.right4colFL .BoxPriceValor
+{
+color:#c80000;
+}
+
+.lowest
+{
+float:left;
+width:200px;
+padding-top:20px;
+background:#FFF;
+}
+/**/

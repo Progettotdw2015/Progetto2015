@@ -1,0 +1,191 @@
+.right4colFL{width:830px;float:right}
+.bannersHome{float:right;width:830px;height:219px; overflow:hidden;}
+.bannersHome .grande{float:left;width:618px;height:270px;margin-right:10px; overflow:hidden; border:1px solid #CCCCCC;}
+.ventaFlashIzq{width:250px;height:270px;float:left;text-align:center;background:url(http://aws.tradeinn.com/images/restyling/sombraVentaFlash.png) right repeat-y}
+.ventaFlashIzq p{display:table-cell;margin:0;padding:0;vertical-align:middle;width:250px;height:230px}
+.ventaFlashDer{width:340px;background:#fafafa;float:left;height:230px;padding-left:30px}
+.ventaFlashDer .logoMarca{float:left;text-align:left;height:29px;padding-top:14px}
+.ventaFlashDer .nomProducFlash{width:306px;float:left;background:url(http://aws.tradeinn.com/images/restyling/lineaHoriFlash.png) bottom repeat-x}
+.ventaFlashDer .nomProducFlash p{ color:#a32b31;line-height:18px;margin:0;padding:0;margin-bottom:5px;margin-top:5px;font-size:18px;text-align:left}
+.faceTwitter{width:100%;float:left;text-align:left;margin-top:15px;font-size:12px;color:#4e4e4e}
+.faceTwitter a{text-decoration:none}
+.faceTwitter a img{border:0}
+.ventaFlashDer .otrasFlash{float:left;width:306px;height:140px}
+.ventaFlashDer .otrasFlash .izquierda{float:left;width:160px;height:140px}
+.ventaFlashDer .otrasFlash .izquierda .desc{margin:7px 0;width:100%;height:5px;float:left}
+.ventaFlashDer .otrasFlash .izquierda .desc div{float:left;font-family:Arial;width:38px;font-size:9px;text-align:right;font-weight:bold;color:#000}
+.flashDerDescuento p{ color:#FFF;text-align:left;line-height:27px;font-size:19px;padding-left:5px}
+.flashDerPrecio .top{color:#000;padding:0;margin:0;padding-left:5px;font-size:14px;text-align:left;text-decoration:line-through}
+.flashDerPrecio .down{ color:#000;padding:0;margin:0;padding-left:5px;font-size:22px;text-align:left}
+.flaDerBtnBuy{float:left;margin-top:5px;width:146px}
+.peCaducaEn{font-size:13px;margin:0;padding:0;color:#a21c26;text-align:left;margin-bottom:5px}
+.progressBar{width:85%;height:12px;position:relative}
+.progressBar span{position:absolute;display:block;width:95%;height:12px;background:url(http://aws.tradeinn.com/images/restyling/bar.gif) no-repeat 0 0;top:8px;overflow:hidden;text-indent:-8000px}
+.progressBar em{position:absolute;display:block;width:95%;height:12px;background:url(http://aws.tradeinn.com/images/restyling/bg_cover.gif) repeat-x 0 0;top:0}
+.bannersHome .chicos{float:left;width:200px;height:270px}
+.bannersHome .chicos ul{width:200px}
+.bannersHome .chicos ul li{margin-bottom:10px;height:119px;width:168px;float:left;padding-left:15px;padding-right:15px;padding-top:5px;padding-bottom:5px}
+.bNewsHome{width:120px}
+.bNewsHomeBig{width:70px;padding-top:2px}
+.bNewsHomeBig a img{border:0}
+.downNewsHome{float:left;height:30px;margin-top:15px}
+.downNewsHome .novedades{width:122px;float:left; font-size:12px;height:18px;margin-top:5px;text-align:left}
+.downNewsHome .condiciones{float:left;line-height:12px;width:160px}
+.downNewsHome .SupContentNewsHomeCheck{ font-size:10px;color:#4e4e4e;text-align:left;float:left;width:180px}
+.downNewsHome .condiciones .aceptoTerminos a{color:#4e4e4e}
+.downNewsHome .condiciones .aceptoTerminos{width:155px;line-height:12px; font-size:10px;color:#4e4e4e;text-align:left;float:left}
+.downNewsHome .btnOk{width:37px;height:32px;float:left;font-weight:bold;font-size:12px;background:url(http://aws.tradeinn.com/images/restyling/home_ok_off.png) no-repeat;border:0;cursor:pointer}
+.downNewsHome .btnOk:hover{width:37px;cursor:pointer;height:32px;float:left;font-weight:bold;font-size:12px;background:url(http://aws.tradeinn.com/images/restyling/home_ok_on.png) no-repeat;border:0}
+.contentdownNewsHomeCheck{float:left;margin-top:10px;width:180px}
+.downNewsHomeCheck{float:left;width:20px}
+.bNewsHome .izq{width:26px;text-align:left;height:27px;padding-top:3px;float:left}
+.bNewsHome .der{width:132px;height:30px;float:left;padding-left:10px}
+.bNewsHome .superior{color:#f15a24;line-height:16px;text-align:left;font-size:12px}
+.bNewsHome .inferior{ color:#f15a24;text-align:left;line-height:16px;font-size:12px}
+.right4colFL .BoxSaleMarcas{width:828px;float:left;min-height:250px;height:auto !important;height:250px;margin-top:13px;}
+.right4colFL .medioBoxMarcas{width:100%;float:left;}
+.right4colFL .BoxSaleMarcas .Title{height:35px;width:828px;float:left; border-bottom:solid 1px #cecece; border-top: solid 1px #cecece;}
+.right4colFL .BoxSaleMarcas .TitleIzq{width:670px;float:left;height:35px;}
+.right4colFL .BoxSaleMarcas .TitleDer{width:158px;float:left;height:35px;}
+.right4colFL .BoxSaleMarcas .TitleDer p{ font-size:13px;line-height:35px; text-align:right;}
+.right4colFL .BoxSaleMarcas .TitleDer p a{color:#000000; text-decoration:none;}
+.right4colFL .BoxSaleMarcas .TitleDer p span{color:#4d4d4d;font-weight:bold}
+.right4colFL .medioBoxMarcasCaru{width:100%;float:left;height:230px}
+.right4colFL .singleBoxMarca{float:left;height:250px;width:206px;line-height:250px;}
+.right4colFL .singleBoxMarca .BoxImage{width:206px;text-align:center;height:160px;display:table-cell;margin:0 auto}
+.right4colFL .singleBoxMarca .BoxImage a{line-height:25px;height:160px;width:206px;display:table-cell;padding:5px;vertical-align:middle}
+.right4colFL .singleBoxMarca .BoxImage a img{vertical-align:middle;border:0}
+.right4colFL .singleBoxMarca .BoxPrice{width:100%;text-align:left;height:85px;vertical-align:middle}
+.right4colFL .singleBoxMarca .BoxPrice p{ font-size:14px;text-align:left;line-height:20px; padding-left:10px;}
+.right4colFL .singleBoxMarca .BoxPrice p a{text-decoration:none}
+.right4colFL .singleBoxMarcaCarrusel{float:left;height:240px;width:185px;line-height:240px}
+.right4colFL .singleBoxMarcaCarrusel .BoxImage{width:185px;text-align:center;height:160px;display:table-cell;margin:0 auto}
+.right4colFL .singleBoxMarcaCarrusel .BoxImage a{line-height:25px;height:160px;width:185px;display:table-cell;padding:5px;vertical-align:middle}
+.right4colFL .singleBoxMarcaCarrusel .BoxImage a img{vertical-align:middle;border:0}
+.right4colFL .singleBoxMarcaCarrusel .BoxPrice{width:100%;text-align:center;height:85px;vertical-align:middle}
+.right4colFL .singleBoxMarcaCarrusel .BoxPrice p{ font-size:14px;text-align:left;line-height:20px}
+.right4colFL .singleBoxMarcaCarrusel .BoxPrice p a{text-decoration:none; }
+.right4colFL .singleBoxMarcaUlt{float:left;height:250px;width:206px;line-height:250px;}
+.right4colFL .singleBoxMarcaUlt .BoxImage{width:206px;text-align:center;height:160px;display:table-cell;margin:0 auto}
+.right4colFL .singleBoxMarcaUlt .BoxImage a{line-height:25px;height:160px;width:206px;display:table-cell;padding:5px;vertical-align:middle}
+.right4colFL .singleBoxMarcaUlt .BoxImage a img{vertical-align:middle;border:0}
+.right4colFL .singleBoxMarcaUlt .BoxPrice{width:100%;text-align:left;height:85px;vertical-align:middle}
+.right4colFL .singleBoxMarcaUlt .BoxPrice p{ font-size:13px;text-align:left;line-height:20px; padding-left:10px;}
+.right4colFL .singleBoxMarcaUlt .BoxPrice p a{text-decoration:none}
+.right4colFL .BoxPriceName a{color:#000000; font-weight:bold;}
+.right4colFL .BoxPriceBrand a{color:#000000}
+.right4colFL .BoxPriceValor{color:#FF652E; font-weight:bold;}
+.right4colFL .downBoxMarcas{float:left;width:100%;height:85px}
+.right4colFL .downBoxMarcas .left{width:28px;height:58px;float:left;margin-left:42px}
+.right4colFL .downBoxMarcas .centre{width:770px;height:58px;float:left}
+.right4colFL .downBoxMarcas .miniBox{width:40px;height:40px;border:solid 1px #e6e6e6;margin-right:5px;float:left;margin-top:8px}
+.right4colFL .downBoxMarcas .miniBoxSel{border:solid 2px #3fa9f5;float:left;width:182px;height:42px;margin-right:5px;margin-top:7px}
+.right4colFL .downBoxMarcas .miniBoxSel .miniBox{margin-top:0}
+.right4colFL .downBoxMarcas .miniBoxSel .miniBoxLast{padding-right:0}
+.right4colFL .downBoxMarcas .right{width:28px;height:58px;float:left}
+.contentSel{width:225px;margin-top:5px;position:absolute;height:56px;margin-left:38px;border:solid 1px #0C3}
+.claseDeLosA{border:solid 1px #e6e6e6;height:50px;width:50px;float:left;margin-right:5px;margin-top:8px}
+.claseDeLosBordes{border-top:solid 2px #3fa9f5;border-bottom:solid 2px #3fa9f5;height:50px;width:50px;float:left;margin-top:8px}
+.claseDeLosBordes_first{border-top:solid 2px #3fa9f5;border-bottom:solid 2px #3fa9f5;border-left:solid 2px #3fa9f5;height:50px;width:50px;float:left;margin-right:0;margin-top:8px}
+.claseDeLosBordes_last{border-top:solid 2px #3fa9f5;border-bottom:solid 2px #3fa9f5;border-right:solid 2px #3fa9f5;height:50px;width:50px;float:left;margin-right:5px;margin-top:8px}
+.ventaFlash{width:830px;height:218px;position:relative}
+.imagenFlash{float:left;width:230px;height:218px;}
+.imagenFlash img{max-width:180px;max-height:200px}
+.contentFlash{float:left;height:155px;width:185px}
+.titleFlash div{float:right;margin-top:5px}
+.titleFlash div img{max-height:30px; max-width:105px;}
+.ofertaFlash{float:left;margin-left:20px; }
+.newBtnVF{ float:right; margin-top:75px;}
+.newBtnVF a img{vertical-align:middle;}
+.botonVFH{padding:10px; float:right; margin-right:10px; color:#FFFFFF; text-align:center;background:#EA5B28;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px; text-decoration:none;}
+.priceFlash{float:left;text-align:left;}
+.oldPriceFlash{font-size:19px;text-decoration:line-through;color:#000000;  text-align:left;line-height:30px;}
+.timeFlash{width:200px;float:left; height:145px;  background:#EDEBEB;}
+.priceFlash p{background:#d4000b;border:0;font-weight:bold;font-size:14px;border-radius:4px;text-shadow:0 -1px 0 #8e2222;margin-top:5px;-webkit-box-shadow:0 2px 2px rgba(164,167,173,0.75);-moz-box-shadow:0 2px 2px rgba(164,167,173,0.75);box-shadow:0 2px 2px rgba(164,167,173,0.75)}
+.priceFlash a{text-decoration:none;color:#fff;display:block;padding:5px 10px 8px 10px}
+.priceFlash img{position:relative;top:3px}
+.topTimeFlash{text-align:left;margin-top:23px}
+.topTimeFlash span,.bottomTimeFlash span{color:#e21b1b;font-size:12px; font-weight:bold;text-transform:uppercase;text-align:left}
+.topTimeFlash li{float:left;width:30px;margin-left:0;text-align:center;font-size:15px; font-weight:bold;margin-top:3px}
+.topTimeFlash .itemRelojLid{width:20px}
+.bottomTimeFlash{float:left;height:35px;width:180px;margin-top:10px}
+.stockBarFlash{float:left;padding-left:15px;width:170px;;height:45px}
+.stockBar{float:left;width:170px;height:10px;margin-top:0px;background-color:#E2E2E2;margin-bottom:4px;overflow:hidden;-webkit-border-radius: 3px;
+-moz-border-radius: 3px; border-radius: 3px;}
+.stockBarFlash .percent0{color:#000 !important;float:left; margin-top:5px; font-size:13px;  }
+.stockBarFlash .percent1{color:#000 !important;float:right; font-size:13px; margin-top:5px; }
+.socialFlash{padding-left:0;float:left;width:120px;margin-top:10px;text-align:left}
+.socialFlash img{margin-top:5px;margin-right:2px;-webkit-box-shadow:0 1px 2px rgba(164,167,173,0.75);-moz-box-shadow:0 1px 2px rgba(164,167,173,0.75);box-shadow:0 1px 2px rgba(164,167,173,0.75)}
+.selectedBar{background:#56A332;float:left;height:15px}
+.percentDiscount{position:absolute;left:175px;top:15px;color:#fff;font-size:20px;font-weight:bold}
+.topOfertaFlashDer{float:left;width:200px;margin-left:17px; padding-right:10px;}
+.topOfertaFlashIzq{float:left;margin-left:20px}
+.topOfertaFlashIzq p{color:#000000;font-size:40px;margin-top:5px;font-weight:bold; text-align:left;}
+.contTopVentFlash{float:left;}
+.lowest{float:left;width:200px;padding-top:20px;background:#FFF}
+.lowest_left{float:left;width:200px;padding-top:20px;background:#FFF}
+.single_marca_home{width:205px;height:108px;float:left;display:table}
+.single_marca_home .p_single_marca_home{vertical-align:middle;display:table-cell}
+.widget_logeado{color:#4d4d4d;text-align:left;font-size:11px;margin-right:2px}
+.widget_logeado_hola{color:#4d4d4d;text-align:left;font-size:11px;margin-right:2px}
+.header .top .right p .mikuenta_enlace{ font-size:11px;color:#4d4d4d;text-decoration:underline}
+.logoHeaderTop{border:0}
+.nombre_pais_a{font-family:Helvetica;font-size:11px;float:left;width:200px;height:20px;line-height:20px;text-decoration:none;color:#4e4e4e}
+.nombre_pais_a:hover{background:#e25a2d;color:#FFF;float:left;width:200px;height:20px;line-height:20px}
+.change_lang_right{ font-size:12px;padding-top:5px;padding-right:5px;font-size:10px;float:left;text-align:left;z-index:15;padding-left:5px}
+.change_lang_right p{ font-size:12px;font-weight:bold;color:#4d4d4d}
+.change_lang_right .combo{width:145px;margin-top:5px}
+.handler{background-color:#fff;width:1060px;position:relative}
+.lowest{background:#FFF;padding-top:10px}
+.content{background-color:#FFF;margin-top:230px}
+.leftAndRight{width:1040px;float:left}
+.right4colFL{width:830px;float:right}
+.brclear{clear:both}
+.fleft{float:left}
+.fright{float:right}
+.greyBtnStyle{ color:#4d4d4d;font-size:11px;height:22px;border:1px solid #ccc;cursor:pointer;background-image:linear-gradient(bottom,#f2f2f2 0,#fdfdfd 100%);background-image:-o-linear-gradient(bottom,#f2f2f2 0,#fdfdfd 100%);background-image:-moz-linear-gradient(bottom,#f2f2f2 0,#fdfdfd 100%);background-image:-webkit-linear-gradient(bottom,#f2f2f2 0,#fdfdfd 100%);background-image:-ms-linear-gradient(bottom,#f2f2f2 0,#fdfdfd 100%);background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0,#f2f2f2),color-stop(1,#fdfdfd));border-radius:4px;-webkit-box-shadow:0 1px 2px 0 #ccc;-moz-box-shadow:0 1px 2px 0 #ccc;box-shadow:0 1px 2px 0 #ccc;background-color:#fff}
+.bannersHome .chicos ul li{border:solid 1px #CCC}
+.titleFlash{width:590px;margin-top:10px;margin-left:5px;float:left; border-top:none;}
+.titleFlash p{color:#000000;font-weight:bold;width:450px;height:55px;line-height:19px;padding-top:5px;float:left;text-align:left;font-size:18px;margin-left:10px; padding-bottom:5px;}
+.newPriceFlash{color:#E42921; text-align:left;font-size:31px; font-weight:bold}
+.topTimeFlash ul{color:#e21b1b;background-image:url(http://aws.tradeinn.com/images/detalle_res/i-ventaflash.png);background-repeat:no-repeat;padding-left:30px;float:left;height:26px;margin-top:4px;padding-bottom:4px;width:175px}
+.topTimeFlash ul li{line-height:26px;}
+.stockBarFlash{float:left;padding-right:12px;width:170px;height:45px;text-align:left}
+.stockBarFlash .percent0{color:#000000 ;float:left; font-size:13px;font-style:normal}
+.stockBarFlash .percent1{color:#000000 ;font-size:13px; float:right;font-style:normal}
+.box{margin:0 auto;width:960px;background-color:#fff;text-align:left;font-family:Helvetica,Arial,sans-serif}
+.logoTiendaCapt{width:100%;text-align:left;height:40px;float:left;padding-bottom:10px;border-bottom:solid 2px #c0272d}
+.primerSloganCapt{width:100%;text-align:left;padding-top:10px;padding-bottom:10px;border-bottom:solid 1px #c0272d}
+.segundoSloganCapt{width:100%;text-align:left;height:160px;float:left;padding-bottom:10px;margin-top:10px;background:url(http://aws.tradeinn.com/images/restyling/cap_mail/linea_mail.png) bottom center no-repeat}
+.segundoSloganCapt p{padding:0;width:210px;margin:0;font-size:12px;line-height:14px;color:#000;margin-bottom:10px; }
+.segundoSloganCapt ul{color:#414042;padding-left:15px;font-size:11px;font-family:Helvetica,arial,sans-serif}
+.segundoSloganCapt ul li{list-style:disc;margin-bottom:5px}
+.primerSloganCapt .primeraeng{padding-top:5px;margin:0;color:#c0272d;font-size:14px;line-height:16px; }
+.primerSloganCapt .segundaeng{padding:0;margin:0;letter-spacing:-1px;color:#c0272d;font-size:21px;line-height:23px; }
+.primerSloganCapt .logoConfianzaeng{float:left;margin-left:10px}
+.segundoSloganCapteng{width:100%;text-align:left;float:left;padding-bottom:10px;margin-top:10px;background:url(http://aws.tradeinn.com/images/restyling/cap_mail/linea_mail.png) bottom center no-repeat}
+.segundoSloganCapteng p{padding:0;width:220px;margin:0;font-size:12px;line-height:14px;color:#000;margin-bottom:10px; }
+.segundoSloganCapteng ul{color:#414042;padding-left:15px;font-size:11px;font-family:Helvetica,arial,sans-serif}
+.segundoSloganCapteng ul li{list-style:disc;margin-bottom:5px}
+.bienveAlertas{ ;font-size:14px;padding-left:5px;color:#000;text-align:left}
+.priemerTexAlertas{ font-size:12px;padding-left:5px;color:#4d4d4d;text-align:left;width:700px}
+.vinietaAlertas{width:700px;background:#3fa8f4 url(http://aws.tradeinn.com/images/restyling/vinietaAlertas.png) bottom no-repeat;float:left}
+.vinietaAlertas p{ font-size:12px;padding-left:5px;color:#FFF;font-weight:bold;text-align:left;padding:10px;padding-bottom:20px}
+.widgetOutlet{width:210px;position:fixed;bottom:0;height:103px;left:-600px;margin-left:50%;z-index:1000}
+.medioOut{width:930px;position:fixed;bottom:0;margin:auto;text-align:center;left:-335px;margin-left:50%;height:24px;z-index:100}
+.widgetOutlet .imagen{float:left;width:210px;height:97px;margin-top:3px}
+.enlaceXwidgOut{color:#fff; text-decoration:none}
+.okAlertasConfir{float:left;width:auto;margin-left:10px;padding-left:10px;padding-right:10px;padding-top:5px;padding-bottom:5px;background:#f1f1f1;border:solid 1px #c9ddc0;border-radius:5px;-ms-border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;-khtml-border-radius:5px;margin-top:10px;margin-bottom:20px}
+.topOutletOfer .topColorOutlet{line-height:20px;font-size:14px;color:#4d4d4d;text-align:right;height:20px;text-transform:lowercase;margin-left:-35px; float:right; padding-right:10px;}
+/*Carrousel nuevo*/
+#container {position: relative;margin: 0 auto;}
+#carousel {width: 830px;height:219px;margin: 0 auto;}
+#ui-carousel-next, #ui-carousel-prev {display:block;position:absolute;right:26px;bottom:6px;width:13px;height:20px;font-size:1px;z-index:100;}
+#ui-carousel-next {right:5px; background:url('http://aws.tradeinn.com/images/restyling/spritenewslog.png') no-repeat -367px -242px;}
+#ui-carousel-prev {background:url('http://aws.tradeinn.com/images/restyling/spritenewslog.png') no-repeat -350px -242px; right: 21px;}
+#ui-carousel-next > span, #ui-carousel-prev > span {display: none;}
+.slide {margin: 0;position: relative;}
+.ui-carousel {height: 100px;margin: 0;overflow: auto;padding: 0;position: relative;width: 300px}
+.ui-carousel > .wrapper {margin: 0;padding: 0;width: 9999px;}
+.ui-carousel > .wrapper > * {border: 0;display: block;float: left;height: 100px;overflow: hidden;width: 100px;}
+/*FIN Carrousel nuevo*/
